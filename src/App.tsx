@@ -28,6 +28,7 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
+      <h1>Author: Serhii Stets</h1>
       <p>@ Copyright KPI 2025</p>
     </>
   )
